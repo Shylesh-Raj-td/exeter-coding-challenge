@@ -1,0 +1,16 @@
+{
+  "name": "File-translation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fileconvertor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.3.0",
+    "google-translate-api": "^2.3.0"
+  }
+}
